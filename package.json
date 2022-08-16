@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-seoul/naver-login",
-  "version": "2.3.0",
+  "name": "@utae/naver-login",
+  "version": "1.0.0",
   "description": "React Native Module for Naver Login",
   "main": "index.js",
   "postinstall": "dooboolab-welcome postinstall",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-seoul/react-native-naver-login"
+    "url": "git+https://github.com/utae/react-native-naver-login"
   },
   "keywords": [
     "react-native",
