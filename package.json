@@ -1,5 +1,5 @@
 {
-  "name": "@utae/naver-login",
+  "name": "@utae/react-native-naver-login",
   "version": "1.0.0",
   "description": "React Native Module for Naver Login",
   "main": "index.js",
